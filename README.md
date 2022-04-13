@@ -23,9 +23,9 @@ Remediation
 
 If the key is found on any node it should be removed and re-issued immediately.
 
-##Prevention
+## Prevention
 
-###Key Revocation Lists
+### Key Revocation Lists
 
 Setting up Key Revocation can help prevent access using the affected keys.  This step is optional but would help protect from authentication with the affected keys in the future.
 [https://docs.rundeck.com/docs/learning/howto/revoke-ssh-keys.html](https://docs.rundeck.com/docs/learning/howto/revoke-ssh-keys.html)
