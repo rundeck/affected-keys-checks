@@ -1,6 +1,4 @@
 # Rundeck Key Pair Remediation Options
-**April 2022 - CONFIDENTIAL PAGERDUTY CUSTOMER DETAILS**
-Content should not be shared directly with customers.  Use messages and content from this document to answer specific customer questions.
 
 ## Overview
 
