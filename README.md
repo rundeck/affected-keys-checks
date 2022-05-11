@@ -4,6 +4,8 @@
 
 Docker distributions for PagerDuty® Process Automation On Prem and Rundeck versions 4.0 and earlier contain a hard-coded SSH key pair generated at packaging time. In Docker installations, new projects have a default path pointing to the exposed key. If no new key pair was generated, and a user copied the public key to the `authorized_keys` files on a remote host, anyone with the exposed private key would have access to the host with the same privileges as the PagerDuty Process Automation On Prem user.
 
+[More details about the issue available on the Rundeck Documentation site.](https://docs.rundeck.com/docs/history/CVEs/CVE-2022-29186.html)
+
 ## Discovery  
 
 To determine whether your systems are affected it is necessary to scan endpoints in your environment. Please use or adapt one of the options below. The key details are included in the scripts and the [GitHub Security Advisory](https://github.com/rundeck/rundeck/security/advisories/GHSA-qxjx-xr2m-hgqx) if another method is chosen to scan for them.
