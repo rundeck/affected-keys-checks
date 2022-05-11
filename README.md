@@ -6,7 +6,7 @@ Docker distributions for PagerDuty® Process Automation On Prem and Rundeck vers
 
 ## Discovery  
 
-To determine whether your systems are affected it is necessary to scan endpoints in your environment. Please use or adapt one of the options below. The key details are included in the scripts and the [Github Security Advisory](#) if another method is chosen to scan for them.
+To determine whether your systems are affected it is necessary to scan endpoints in your environment. Please use or adapt one of the options below. The key details are included in the scripts and the [GitHub Security Advisory](https://github.com/rundeck/rundeck/security/advisories/GHSA-qxjx-xr2m-hgqx) if another method is chosen to scan for them.
 
 ### Job Definitions
 
